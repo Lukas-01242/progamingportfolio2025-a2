@@ -13,6 +13,5 @@ Graphics project with keypress drawing controls with the ability to save Shapes.
 ## Term 2
 ### Calculator
 Object-oriented graphical calculator with custom buttons and UI.
-![Running App](![Calc1](https://github.com/user-attachments/assets/03dd4dab-0a81-41af-ba93-1df917dfeb08)
-)
-![Source Code](0
+![Running App](https://github.com/Lukas-01242/progamingportfolio2025-a2/blob/main/Calc1.png?raw=true)
+![Source Code]()
