@@ -14,4 +14,4 @@ Graphics project with keypress drawing controls with the ability to save Shapes.
 ### Calculator
 Object-oriented graphical calculator with custom buttons and UI.
 ![Running App](https://github.com/Lukas-01242/progamingportfolio2025-a2/blob/main/images/Calc1.png)
-![Source Code](https://github.com/Lukas-01242/progamingportfolio2025-a2/tree/main/src/Calcualtor)
+[Source Code](https://github.com/Lukas-01242/progamingportfolio2025-a2/tree/main/src/Calcualtor)
