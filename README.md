@@ -20,5 +20,5 @@ Object-oriented graphical calculator with custom buttons and UI.
 ## Term 2 
 ### SpaceGame
 Game like space shooter able to get powerups  health and levels consit with this game.
-![Running App](https://github.com/Lukas-01242/progamingportfolio2025-a2/blob/main/images/Screenshot%202024-12-02%20at%209.14.48%20AM.png)
+![Running App](https://github.com/Lukas-01242/progamingportfolio2025-a2/blob/main/images/Screenshot%202024-12-02%20at%209.14.48%20AM.png?raw=true)
 [Source Code](https://github.com/Lukas-01242/progamingportfolio2025-a2/tree/main/src/SpaceGame)
