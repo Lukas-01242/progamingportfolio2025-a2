@@ -1,6 +1,6 @@
 # Lukas Jolley
 ## Programming Portfolio 2024-25
-### [Email Someone](mailto:9645644@granite.org)
+### (mailto:9645644@granite.org)
 
 * Projection graduation 2028
 * Interests in piano
