@@ -1,4 +1,6 @@
 # Lukas Jolleys Programming Portfolio 2024-25
+## 9645644@graniteschools.org
+
 * Projection graduation 2028
 * Interests in piano
 * Experience in a little python
