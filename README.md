@@ -1,4 +1,4 @@
-# Lukas Jolleys 
+# Lukas Jolley
 ## Programming Portfolio 2024-25
 ### 9645644@graniteschools.org
 
