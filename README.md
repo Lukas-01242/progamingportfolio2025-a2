@@ -5,6 +5,8 @@
 * Projection graduation 2028
 * Interests in piano
 * Experience in a little python
+* Sking
+* Winter Sports
   
 ## Term 1
 ### Etch-A-Sketch
