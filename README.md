@@ -7,7 +7,10 @@
 * Experience in a little python
 * Sking
 * Winter Sports
+
+  # certifications
   
+
 ## Term 1
 ### Etch-A-Sketch
 Graphics project with keypress drawing controls and the ability to save shapes.
